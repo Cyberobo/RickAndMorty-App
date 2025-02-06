@@ -1,16 +1,25 @@
-# rickandmorty
+# 📌 Rick and Morty App
 
-A new Flutter project.
+## 🛠 Technologies Used
 
-## Getting Started
+Technologies, libraries, and tools used in this project:
 
-This project is a starting point for a Flutter application.
+- [🔹cupertino_icons](#) 
+- [🔹go_router](#)
+- [🔹provider](#)
+- [🔹dio](#)
+- [🔹get_it](#)
+   
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/0ece092e-6a36-478d-8c51-e1882c30d4a7" width="250">
+<img src="https://github.com/user-attachments/assets/dcb63d9a-cd86-40cb-8b50-662ab299749c" width="250">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 License
+
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Download-Manager-File-Converter-App-Final-Project/blob/main/License.txt)
+
+---
+
+⭐ If you liked this project, don't forget to leave a **star**!
