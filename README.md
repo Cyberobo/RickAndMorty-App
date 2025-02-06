@@ -5,11 +5,11 @@
 Technologies, libraries, and tools used in this project:
 
 **Libraries**
-- [🔹cupertino_icons](#) 
-- [🔹go_router](#)
-- [🔹provider](#)
-- [🔹dio](#)
-- [🔹get_it](#)
+- [cupertino_icons](#) 
+- [go_router](#)
+- [provider](#)
+- [dio](#)
+- [get_it](#)
    
 ## 📸 Screenshots
 
